@@ -1,0 +1,7 @@
+G:\Shashank\Workshop\UITest\UITest\obj\Release\net8.0\PubTmp\Out\UITest.exe
+G:\Shashank\Workshop\UITest\UITest\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+G:\Shashank\Workshop\UITest\UITest\obj\Release\net8.0\PubTmp\Out\appsettings.json
+G:\Shashank\Workshop\UITest\UITest\obj\Release\net8.0\PubTmp\Out\UITest.dll
+G:\Shashank\Workshop\UITest\UITest\obj\Release\net8.0\PubTmp\Out\UITest.deps.json
+G:\Shashank\Workshop\UITest\UITest\obj\Release\net8.0\PubTmp\Out\UITest.runtimeconfig.json
+G:\Shashank\Workshop\UITest\UITest\obj\Release\net8.0\PubTmp\Out\UITest.pdb
